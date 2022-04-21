@@ -2,9 +2,17 @@
     "name": "aetonsi-extension-pack",
     "displayName": "aetonsi-extension-pack",
     "description": "personal extension pack",
+    "publisher": "aetonsi",
+    "author": {
+        "name": "aetonsi"
+    },
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.66.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/aetonsi/aetonsi-extension-pack/"
     },
     "categories": [
         "Extension Packs"
