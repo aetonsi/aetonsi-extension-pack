@@ -1,5 +1,10 @@
 # README
 
+See `vsc-extension-quickstart.md`
+
+---
+
+
 ## This is the README for your extension pack "aetonsi-extension-pack"
 
 You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
