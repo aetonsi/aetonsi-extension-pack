@@ -1,7 +1,7 @@
 {
     "name": "aetonsi-extension-pack",
     "displayName": "aetonsi-extension-pack",
-    "description": "personal extension pack",
+    "description": "lh extension pack",
     "publisher": "aetonsi",
     "author": {
         "name": "aetonsi"
@@ -33,7 +33,6 @@
         "dbaeumer.jshint", 
         "dbaeumer.vscode-eslint", 
         "DmitryDorofeev.empty-indent", 
-        "eamodio.gitlens", 
         "esbenp.prettier-vscode", 
         "fabiospampinato.vscode-open-multiple-files", 
         "fabiospampinato.vscode-search-open-all-results", 
