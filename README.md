@@ -1,3 +1,3 @@
 # README
 
-See `vsc-extension-quickstart.md`
+run `vsce package` to create the package
