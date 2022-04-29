@@ -1,9 +1,12 @@
 # README
 
+### Setup
+```
+npm install -g yo generator-code vsce
+```
+
 ### Create extension folder
 ```
-npm install -g yo generator-code
-
 yo code
 ```
 
