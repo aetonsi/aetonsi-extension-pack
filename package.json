@@ -6,7 +6,7 @@
     "author": {
         "name": "aetonsi"
     },
-    "version": "0.0.4",
+    "version": "0.0.5",
     "engines": {
         "vscode": "^1.66.0"
     },
@@ -33,7 +33,6 @@
         "dbaeumer.jshint",
         "dbaeumer.vscode-eslint",
         "DmitryDorofeev.empty-indent",
-        "esbenp.prettier-vscode",
         "fabiospampinato.vscode-open-multiple-files",
         "formulahendry.auto-close-tag",
         "formulahendry.auto-rename-tag",
